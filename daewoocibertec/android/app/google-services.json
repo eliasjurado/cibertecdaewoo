@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "856797648377",
+    "firebase_url": "https://daewoo-cibertec.firebaseio.com",
+    "project_id": "daewoo-cibertec",
+    "storage_bucket": "daewoo-cibertec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:856797648377:android:cec2a7eeeb0fae8f2e9928",
+        "android_client_info": {
+          "package_name": "com.globaltech.daewoocibertec"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "856797648377-ubqvii2v04b1otl4snum1ag8f9283e16.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.globaltech.daewoocibertec",
+            "certificate_hash": "f1a02f71aeaf1f2d395dfefe88981e740b9f4c92"
+          }
+        },
+        {
+          "client_id": "856797648377-umt2479ehopag8805lr4psvv3d4599c0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0xIaRHcrPToidkbDQXkzJQdRUmkjcU-k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "856797648377-umt2479ehopag8805lr4psvv3d4599c0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "856797648377-q5ps5tedo18mulo2phb6amedv1ufm6k2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.globaltech.daewoocibertec"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
